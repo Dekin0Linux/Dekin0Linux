@@ -22,7 +22,7 @@ I'm a software developer, specializing in building websites and mobile applicati
   
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-  ![Php](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=php)
+  ![Php](https://img.shields.io/badge/-Php-0A1A2F?style=flat&logo=php)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
 - 🛢 &nbsp;Database:&nbsp;
