@@ -1,6 +1,6 @@
 <h2> Welcome 👋 , I'm Faisal Salifu.</h2>
 
-I'm a software developer, specializing in building exceptional websites and mobile applications.
+I'm a software developer, specializing in building websites and mobile applications.
 
 
 ## About me
@@ -17,6 +17,9 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+- 📱 &nbsp;Css Framework:&nbsp;
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+  
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![Php](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=php)
@@ -33,7 +36,7 @@ I'm a software developer, specializing in building exceptional websites and mobi
   ![Bracket.io](https://img.shields.io/badge/-Bracket?style=flat&logo=vim&logoColor=007ACC)
 - 🖥 &nbsp;Design:&nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=framer)
+  ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
 <br/>
