@@ -38,6 +38,9 @@ I'm a software developer, specializing in building websites and mobile applicati
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
   ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0A1A2F?style=flat&logo=framer)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+ - 🖥 &nbsp;Operating System:&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-0A1A2F?style=flat&logo=linux)
+  ![Windows](https://img.shields.io/badge/-Windows-0A1A2F?style=flat&logo=windows)
 
 <br/>
 
